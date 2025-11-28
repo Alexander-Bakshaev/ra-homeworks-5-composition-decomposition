@@ -1,7 +1,7 @@
 # Декомпозиция
 
-[![Vercel Deploy](https://img.shields.io/github/deployments/alexander-bakshaev/ra-homeworks-5-composition-decomposition/production?label=vercel&logo=vercel)](https://vercel.com/your-username/ra-homeworks-5-composition-decomposition)
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat&logo=vercel)](https://ra-homeworks-5-composition-decomposition.vercel.app)
+[![Vercel Deploy](https://img.shields.io/badge/vercel-deployed-success?style=flat&logo=vercel)](https://ra-homeworks-5-composition-decomposition-j0n7b8xzl.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat&logo=vercel)](https://ra-homeworks-5-composition-decomposition-j0n7b8xzl.vercel.app)
 
 Учебный проект, демонстрирующий принципы декомпозиции сложного интерфейса на переиспользуемые React-компоненты. Включает реализацию новостного агрегатора с различными виджетами.
 
